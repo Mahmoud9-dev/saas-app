@@ -1,6 +1,6 @@
 import React from "react";
 import CompanionCard from "@/components/CompanionCard";
-import CompanionList from "@/components/CompanionList";
+import CompanionList from "@/components/CompanionsList";
 import CTA from "@/components/CTA";
 import { getSubjectColor } from "@/lib/utils";
 import { recentSessions } from "@/constants";
