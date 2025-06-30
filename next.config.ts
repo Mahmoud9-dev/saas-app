@@ -16,11 +16,23 @@ const nextConfig: NextConfig = {
       },
     ],
   },
+  // Fix for lightningcss platform-specific binary issue
+  experimental: {
+    serverComponentsExternalPackages: ['lightningcss'],
+  },
+  transpilePackages: ['lightningcss', '@tailwindcss/postcss'],
 };
 
 export default withSentryConfig(nextConfig, {
-  org: "jsmpro",
-  project: "jsm_converso",
+  org: "self-employed-mhz",
+  project: "mnd_converso",
   silent: !process.env.CI,
   widenClientFileUpload: true,
+  // Disable source maps to avoid lightningcss issues
+  disableSourceMapUpload: true,
+  sourcemaps: {
+    assets: false,
+    server: false,
+    client: false,
+  },
 });
