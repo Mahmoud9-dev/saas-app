@@ -17,7 +17,7 @@ export default withSentryConfig(nextConfig, {
   // For all available options, see:
   // https://www.npmjs.com/package/@sentry/webpack-plugin#options
 
-  org: "mndpro",
+  org: "self-employed-mhz",
   project: "mnd_converso",
 
   // Only print logs for uploading source maps in CI
