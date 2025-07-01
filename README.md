@@ -1,5 +1,7 @@
 # SaaS App - LMS with Next.js, Supabase & Payments
 
+Discover a cutting-edge LMS SaaS solution built from the ground up, featuring robust user authentication, seamless subscriptions, and secure payments. Powered by Next.js, Supabase, and Stripe, this platform revolutionizes online learning by offering real-time teaching capabilities with integrated AI vocal agents. Experience interactive learning sessions like never before, ensuring a smooth and engaging educational experience. This project addresses the pressing need for accessible, efficient, and engaging online education solutions, catering to both educators and learners worldwide.
+
 ## ⚙️ Tech Stack
 
 *   **[Clerk](https://clerk.com/)** is a unified platform for authentication, user management, and billing. It offers embeddable UI components, flexible APIs, and admin dashboards for secure user management. Clerk also simplifies subscription management, allowing you to define plans, create pricing pages, and control access based on subscription tiers—all in one solution.
