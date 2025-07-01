@@ -1,6 +1,11 @@
+![image](https://github.com/user-attachments/assets/44725fcc-5265-44fb-8b79-a7be08fa07cd)
+
+
 # SaaS App - LMS with Next.js, Supabase & Payments
 
 Discover a cutting-edge LMS SaaS solution built from the ground up, featuring robust user authentication, seamless subscriptions, and secure payments. Powered by Next.js, Supabase, and Stripe, this platform revolutionizes online learning by offering real-time teaching capabilities with integrated AI vocal agents. Experience interactive learning sessions like never before, ensuring a smooth and engaging educational experience. This project addresses the pressing need for accessible, efficient, and engaging online education solutions, catering to both educators and learners worldwide.
+
+![image](https://github.com/user-attachments/assets/ed0d2b2d-b5a4-476b-8406-2084aef7d765)
 
 ## ⚙️ Tech Stack
 
@@ -21,6 +26,9 @@ Discover a cutting-edge LMS SaaS solution built from the ground up, featuring ro
 *   **[Vapi](https://vapi.ai/)** is a developer-centric voice AI platform that enables the creation of conversational voice agents with low-latency voice interactions, speech-to-text, and text-to-speech capabilities. It supports multilingual conversations, customizable voices, and seamless integration with various AI models and tools.
 
 *   **[Zod](https://zod.dev/)** is a TypeScript-first schema validation library that provides a simple and expressive way to define and validate data structures. Zod ensures data integrity by catching errors early during development.
+
+  ![image](https://github.com/user-attachments/assets/8af1a9ff-bee8-4993-a063-7f6a4b632d86)
+
 
 ## 🔋 Features
 
